@@ -4,9 +4,4 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-blog/
-blogengine/
-db.sqlite3
-manage.py
-templates/
 venv/
