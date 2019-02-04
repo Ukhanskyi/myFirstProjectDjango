@@ -5,3 +5,6 @@
 .idea/modules.xml
 .idea/workspace.xml
 venv/
+blog/__pycache__/
+blog/migrations/__pycache__/
+blogengine/__pycache__/
